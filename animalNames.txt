@@ -1,15 +1,54 @@
-Hyena Names:
+Hyena Names: 
 
-Shenzi, Banzai, Ed, Zig, Bud, Lou, Kamari, Wema, Nne, Madoa, Prince Nevarah
+Shenzi 
+Banzai 
+Ed 
+Zig 
+Bud 
+Lou 
+Kamari 
+Wema
+Nne 
+Madoa 
+Prince Nevarah
 
-Lion Names:
+Lion Names: 
 
-Scar, Mufasa, Simba, Kiara, King, Drooper, Kimba, Nala, Leo, Samson, Elsa, Cecil
+Scar 
+Mufasa 
+Simba 
+Kiara 
+King 
+Drooper 
+Kimba 
+Nala 
+Leo 
+Samson 
+Elsa 
+Cecil 
 
-Bear Names:
+Bear Names: 
 
-Yogi, Smokey, Paddington, Lippy, Bungle, Baloo, Rupert, Winnie the Pooh, Snuggles, Bert
+Yogi 
+Smokey 
+Paddington 
+Lippy 
+Bungle 
+Baloo 
+Rupert 
+Winnie the Pooh 
+Snuggles 
+Bert
 
-Tiger names:
+Tiger Names: 
 
-Tony, Tigger, Amber, Cosimia, Cuddles, Dave, Jiba, Rajah, Rayas, Ryker
+Tony 
+Tigger 
+Amber 
+Cosimia 
+Cuddles 
+Dave 
+Jiba 
+Rajah 
+Rayas 
+Ryker
